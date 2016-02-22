@@ -72,9 +72,9 @@ namespace pocketmine {
 	use pocketmine\utils\Utils;
 	use pocketmine\wizard\Installer;
 
-	const VERSION = "1.1dev";
+	const VERSION = "1.1dev-Grim";
 	const API_VERSION = "2.0.0";
-	const CODENAME = "Amazing PHP7 !";
+	const CODENAME = "Grim core !";
 	const MINECRAFT_VERSION = "v0.14.0 alpha";
 	const MINECRAFT_VERSION_NETWORK = "0.14.0";
 	const iTX_API_VERSION = '1.6.0';
